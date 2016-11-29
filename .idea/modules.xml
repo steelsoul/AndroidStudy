@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0121logandmessage/p0121logandmessage.iml" filepath="$PROJECT_DIR$/p0121logandmessage/p0121logandmessage.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0171_dynamiclayout2/p0171_dynamiclayout2.iml" filepath="$PROJECT_DIR$/p0171_dynamiclayout2/p0171_dynamiclayout2.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0181_dynamiclayout3/p0181_dynamiclayout3.iml" filepath="$PROJECT_DIR$/p0181_dynamiclayout3/p0181_dynamiclayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0191_simplecalculator/p0191_simplecalculator.iml" filepath="$PROJECT_DIR$/p0191_simplecalculator/p0191_simplecalculator.iml" />
     </modules>
   </component>
 </project>
