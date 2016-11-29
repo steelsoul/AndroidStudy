@@ -3,8 +3,9 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -18,23 +19,10 @@
             <option value="$PROJECT_DIR$/p0101listener" />
             <option value="$PROJECT_DIR$/p0102activitylistener" />
             <option value="$PROJECT_DIR$/p0121logandmessage" />
+            <option value="$PROJECT_DIR$/p0171_dynamiclayout2" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/p0031firstproject" />
-            <option value="$PROJECT_DIR$/p0041basicviews" />
-            <option value="$PROJECT_DIR$/p0051layoutfiles" />
-            <option value="$PROJECT_DIR$/p0061layouts" />
-            <option value="$PROJECT_DIR$/p0072layoutprop" />
-            <option value="$PROJECT_DIR$/p0081viewbyid" />
-            <option value="$PROJECT_DIR$/p0101listener" />
-            <option value="$PROJECT_DIR$/p0102activitylistener" />
-            <option value="$PROJECT_DIR$/p0121logandmessage" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
